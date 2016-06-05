@@ -1,0 +1,28 @@
+name: Penelope Hogan
+favicon: null
+layout_spectrum: 0.3675937799271196
+typography_spectrum: 0.7645336054265499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.511522849323228
+  lightness: 0.9228825788013637
+  saturation: 0.7046264333184808
+  rhythmicContrast: 0.559009384131059
+purpose: []
